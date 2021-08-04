@@ -1,0 +1,16 @@
+h1 {
+    color: salmon;
+}
+
+#spanId {
+ font-size: 18px;
+ margin: 50px;
+}
+
+#thirdDiv {
+    height: 600;
+    width: 500px;
+    background:pink;
+    padding: 50px; 
+    border:20px plum solid
+}
